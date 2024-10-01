@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    background-color: rgb(233, 237, 240);
+}
+
+.main-content {
+    text-align: center;
+}
+
+#title-head {
+    font-size: 55px;
+    color: rgb(119, 95, 58);
+}
+
+.header-title {
+    font-size: 35px;
+}
+
+.img-content {
+    width: 400px;
+    height: auto;
+    border: 2px solid blanchedalmond;
+    padding: 2px;
+}
+
+ul li,
+ol li {
+    list-style: none;
+}
+
+li {
+    color: rebeccapurple;
+}
+
